@@ -216,6 +216,7 @@ Makefile: ../CppQtConsole/CppQtConsole.pro F:/Software_Installations/Qt/5.11.1/5
 		F:/Software_Installations/Qt/5.11.1/5.11.1/mingw53_32/mkspecs/features/qt_config.prf \
 		F:/Software_Installations/Qt/5.11.1/5.11.1/mingw53_32/mkspecs/win32-g++/qmake.conf \
 		F:/Software_Installations/Qt/5.11.1/5.11.1/mingw53_32/mkspecs/features/spec_post.prf \
+		.qmake.stash \
 		F:/Software_Installations/Qt/5.11.1/5.11.1/mingw53_32/mkspecs/features/exclusive_builds.prf \
 		F:/Software_Installations/Qt/5.11.1/5.11.1/mingw53_32/mkspecs/features/toolchain.prf \
 		F:/Software_Installations/Qt/5.11.1/5.11.1/mingw53_32/mkspecs/features/default_pre.prf \
@@ -394,6 +395,7 @@ F:/Software_Installations/Qt/5.11.1/5.11.1/mingw53_32/mkspecs/features/qt_functi
 F:/Software_Installations/Qt/5.11.1/5.11.1/mingw53_32/mkspecs/features/qt_config.prf:
 F:/Software_Installations/Qt/5.11.1/5.11.1/mingw53_32/mkspecs/win32-g++/qmake.conf:
 F:/Software_Installations/Qt/5.11.1/5.11.1/mingw53_32/mkspecs/features/spec_post.prf:
+.qmake.stash:
 F:/Software_Installations/Qt/5.11.1/5.11.1/mingw53_32/mkspecs/features/exclusive_builds.prf:
 F:/Software_Installations/Qt/5.11.1/5.11.1/mingw53_32/mkspecs/features/toolchain.prf:
 F:/Software_Installations/Qt/5.11.1/5.11.1/mingw53_32/mkspecs/features/default_pre.prf:
